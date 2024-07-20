@@ -1,0 +1,11 @@
+inicio
+iniciovar
+int a = 89.1656 ;
+int c = a ;
+double b ;
+int j = 0;
+finvar
+scanner (a);
+scanner (b);
+scanner (c);
+if(a>b):

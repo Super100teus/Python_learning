@@ -1,0 +1,18 @@
+hola _ amigo 12
+te quier0 decir que
+este es ** 
+mi texto      chido
+
+La conversión de un autómata finito no determinista (AFN) a un autómata finito determinista (AFD) puede ser un proceso complejo y depende de la estructura específica de los autómatas en cuestión. No obstante, puedo proporcionarte un enfoque general sobre cómo podrías abordar esta conversión en Java.
+
+Para realizar la conversión de un AFN a un AFD en Java, puedes seguir estos pasos generales:
+
+    Representar el AFN: Primero, debes representar el AFN en Java. Esto implica definir sus estados, transiciones, conjunto de estados finales, etc. Puedes utilizar estructuras de datos como HashMaps o listas para representar las transiciones.
+
+    Inicializar el AFD: Crea una estructura de datos para representar el AFD, que constará de estados, transiciones y estados finales. Inicialmente, el AFD estará vacío.
+
+    Construir el AFD: Utiliza algoritmos de construcción de subconjuntos, como el método de los subconjuntos, para generar los estados y transiciones del AFD a partir del AFN. Este algoritmo implica crear un conjunto de estados alcanzables a partir del estado inicial del AFN y seguir las transiciones epsilon y no epsilon. Puedes usar una cola o una pila para gestionar los conjuntos de estados.
+
+    Marcar los estados finales: Marca los estados del AFD como estados finales si contienen al menos un estado final del AFN en su conjunto de estados.
+
+    Implementar la simulación: Ahora que tienes el AFD construido, puedes implementar una simulación del automáta. Dado un estado inicial y una cadena de entrada, sigue las transiciones correspondientes en el AFD hasta que llegues a un estado final o no haya más transiciones.

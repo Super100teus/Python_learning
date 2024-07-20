@@ -1,0 +1,32 @@
+inicio
+iniciovar
+int  a = 89.1656 ;
+int peto = 92;
+int inj = 777 ;
+ string j = "/@@@@\"; 
+double b  ;
+ double ee;
+
+finvar    jvihcgyc
+##
+# 
+ñ
+"ncvgcgcfcfvh@@@@@@@@@@@"
+hcvv while(!b>a ||b%b|b<99): 
+.-             ee=inj *a         ;@.-b= a+ a; 
+.-b= a+ a; 
+ print   (  a+"/ cfefs \\"/89 + iop \\"/ \"+ 88+"/while(a ||a%b|a<99):\"  )   ; 
+nj< =b ; inj++):
+cgyxtdfzxdkcgu
+whileend
+&&&&				
+print( "/rty\\ El @mayor \\"/es el \\"+primero\" +8+ee); jgdgjchf
+
+     | |\ if(b== j||inj  < 9    )    :
+sdgvaergva  print("/b es \\"Mayorfor    (i ; i< =b ; i++):\"   +   ee );
+for    (inj ; inj< =b ; inj++):
+scanner  ( b) ;
+ forend
+~
+ifend
+fin

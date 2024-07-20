@@ -1,0 +1,35 @@
+inicio
+iniciovar
+int    a =  89.1656 ;
+int b = 92;
+int i = a  ;
+string j @@@S = "/@@@@\"@@@@@@@@@@;
+double ee = 78.9       ;
+             finvar
+
+if  ( a > b ):
+ϧ£@♀♪♂
+##      ^^
+
+ print  @T  t ("/El mayor es el primero @^&~`?\" +2+    "/d\"+    ee); 
+
+iop
+ifend@
+     else:   
+for    (i ; i< =b ; i++): 
+
+@@
+
+
+
+print u (a);
+forend
+
+         elseend
+if  (b<a):
+print f R@ ("/b es Mayor\");
+print f E@ ("/b es Mayor\");
+ifend
+  
+fin
+  

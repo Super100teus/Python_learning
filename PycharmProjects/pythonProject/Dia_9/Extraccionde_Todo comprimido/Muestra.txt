@@ -1,0 +1,28 @@
+inicio
+iniciovar
+double a = 89.1656 ;
+double p = 92;
+double i = a ;
+double n = 7 ;
+fgdf string j = "/@@@@\";
+double b ;
+double ee;
+finvar
+scanner(b);
+scanner(a )  ;
+scanner(ee)  ;
+if(a>b|b>ee):
+p=a%2;
+i=b%2;
+n = ee%2;
+if(p==0):
+print(p);
+ifend
+if(i==0):
+print(i);
+ifend
+if(n==0):
+print(n);
+ifend
+ifend
+fin

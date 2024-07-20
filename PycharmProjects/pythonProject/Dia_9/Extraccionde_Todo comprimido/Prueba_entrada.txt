@@ -1,0 +1,7 @@
+int a;
+string b;
+read(a);
+read(b);
+c = a+b;
+print("Resultado");
+print(c);
